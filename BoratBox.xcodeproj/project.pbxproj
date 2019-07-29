@@ -12,31 +12,31 @@
 		63C019CE1C58DF76001F4187 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C019CC1C58DF76001F4187 /* Main.storyboard */; };
 		63C019D01C58DF76001F4187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63C019CF1C58DF76001F4187 /* Assets.xcassets */; };
 		63C019D31C58DF76001F4187 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63C019D11C58DF76001F4187 /* LaunchScreen.storyboard */; };
-		63C019EF1C58E4AD001F4187 /* note1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019E81C58E4AD001F4187 /* note1.wav */; };
-		63C019F01C58E4AD001F4187 /* note2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019E91C58E4AD001F4187 /* note2.wav */; };
-		63C019F11C58E4AD001F4187 /* note3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EA1C58E4AD001F4187 /* note3.wav */; };
-		63C019F21C58E4AD001F4187 /* note4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EB1C58E4AD001F4187 /* note4.wav */; };
-		63C019F31C58E4AD001F4187 /* note5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EC1C58E4AD001F4187 /* note5.wav */; };
-		63C019F41C58E4AD001F4187 /* note6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019ED1C58E4AD001F4187 /* note6.wav */; };
-		63C019F51C58E4AD001F4187 /* note7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 63C019EE1C58E4AD001F4187 /* note7.wav */; };
+		801936A122EF4A26006E8F1F /* Where woman ranks.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369122EF4A25006E8F1F /* Where woman ranks.mp3 */; };
+		801936A722EF4A26006E8F1F /* Jagshemash.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369722EF4A25006E8F1F /* Jagshemash.mp3 */; };
+		801936A822EF4A26006E8F1F /* Wow wow wee waa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369822EF4A25006E8F1F /* Wow wow wee waa.mp3 */; };
+		801936A922EF4A26006E8F1F /* My Sister is number 2 prostitute.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369922EF4A25006E8F1F /* My Sister is number 2 prostitute.mp3 */; };
+		801936AE22EF4A26006E8F1F /* Bing Bong song loop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369E22EF4A25006E8F1F /* Bing Bong song loop.mp3 */; };
+		801936AF22EF4A26006E8F1F /* Scared of chocolate face man.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8019369F22EF4A25006E8F1F /* Scared of chocolate face man.mp3 */; };
+		801936B022EF4A26006E8F1F /* my name borat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 801936A022EF4A26006E8F1F /* my name borat.mp3 */; };
 		AD6F1CCA20EBCF7200198C34 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = AD6F1CC920EBCF7200198C34 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63C019C51C58DF76001F4187 /* Xylophone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Xylophone.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		63C019C51C58DF76001F4187 /* BoratBox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoratBox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63C019C81C58DF76001F4187 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63C019CA1C58DF76001F4187 /*  VIewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " VIewController.swift"; sourceTree = "<group>"; };
 		63C019CD1C58DF76001F4187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		63C019CF1C58DF76001F4187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		63C019D21C58DF76001F4187 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63C019D41C58DF76001F4187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		63C019E81C58E4AD001F4187 /* note1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note1.wav; sourceTree = "<group>"; };
-		63C019E91C58E4AD001F4187 /* note2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note2.wav; sourceTree = "<group>"; };
-		63C019EA1C58E4AD001F4187 /* note3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note3.wav; sourceTree = "<group>"; };
-		63C019EB1C58E4AD001F4187 /* note4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note4.wav; sourceTree = "<group>"; };
-		63C019EC1C58E4AD001F4187 /* note5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note5.wav; sourceTree = "<group>"; };
-		63C019ED1C58E4AD001F4187 /* note6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note6.wav; sourceTree = "<group>"; };
-		63C019EE1C58E4AD001F4187 /* note7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = note7.wav; sourceTree = "<group>"; };
+		8019369122EF4A25006E8F1F /* Where woman ranks.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Where woman ranks.mp3"; sourceTree = "<group>"; };
+		8019369722EF4A25006E8F1F /* Jagshemash.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Jagshemash.mp3; sourceTree = "<group>"; };
+		8019369822EF4A25006E8F1F /* Wow wow wee waa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wow wow wee waa.mp3"; sourceTree = "<group>"; };
+		8019369922EF4A25006E8F1F /* My Sister is number 2 prostitute.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "My Sister is number 2 prostitute.mp3"; sourceTree = "<group>"; };
+		8019369E22EF4A25006E8F1F /* Bing Bong song loop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Bing Bong song loop.mp3"; sourceTree = "<group>"; };
+		8019369F22EF4A25006E8F1F /* Scared of chocolate face man.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Scared of chocolate face man.mp3"; sourceTree = "<group>"; };
+		801936A022EF4A26006E8F1F /* my name borat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "my name borat.mp3"; sourceTree = "<group>"; };
 		AD6F1CC920EBCF7200198C34 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -54,13 +54,13 @@
 		6385B12D1C68C76C00E57640 /* Sound Files */ = {
 			isa = PBXGroup;
 			children = (
-				63C019E81C58E4AD001F4187 /* note1.wav */,
-				63C019E91C58E4AD001F4187 /* note2.wav */,
-				63C019EA1C58E4AD001F4187 /* note3.wav */,
-				63C019EB1C58E4AD001F4187 /* note4.wav */,
-				63C019EC1C58E4AD001F4187 /* note5.wav */,
-				63C019ED1C58E4AD001F4187 /* note6.wav */,
-				63C019EE1C58E4AD001F4187 /* note7.wav */,
+				8019369E22EF4A25006E8F1F /* Bing Bong song loop.mp3 */,
+				8019369722EF4A25006E8F1F /* Jagshemash.mp3 */,
+				801936A022EF4A26006E8F1F /* my name borat.mp3 */,
+				8019369922EF4A25006E8F1F /* My Sister is number 2 prostitute.mp3 */,
+				8019369122EF4A25006E8F1F /* Where woman ranks.mp3 */,
+				8019369F22EF4A25006E8F1F /* Scared of chocolate face man.mp3 */,
+				8019369822EF4A25006E8F1F /* Wow wow wee waa.mp3 */,
 			);
 			name = "Sound Files";
 			sourceTree = "<group>";
@@ -69,7 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				AD6F1CC920EBCF7200198C34 /* README.md */,
-				63C019C71C58DF76001F4187 /* Xylophone */,
+				63C019C71C58DF76001F4187 /* BoratBox */,
 				63C019C61C58DF76001F4187 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -77,12 +77,12 @@
 		63C019C61C58DF76001F4187 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				63C019C51C58DF76001F4187 /* Xylophone.app */,
+				63C019C51C58DF76001F4187 /* BoratBox.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		63C019C71C58DF76001F4187 /* Xylophone */ = {
+		63C019C71C58DF76001F4187 /* BoratBox */ = {
 			isa = PBXGroup;
 			children = (
 				63C019C81C58DF76001F4187 /* AppDelegate.swift */,
@@ -93,15 +93,15 @@
 				63C019D41C58DF76001F4187 /* Info.plist */,
 				6385B12D1C68C76C00E57640 /* Sound Files */,
 			);
-			path = Xylophone;
+			path = BoratBox;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63C019C41C58DF76001F4187 /* Xylophone */ = {
+		63C019C41C58DF76001F4187 /* BoratBox */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63C019D71C58DF76001F4187 /* Build configuration list for PBXNativeTarget "Xylophone" */;
+			buildConfigurationList = 63C019D71C58DF76001F4187 /* Build configuration list for PBXNativeTarget "BoratBox" */;
 			buildPhases = (
 				63C019C11C58DF76001F4187 /* Sources */,
 				63C019C21C58DF76001F4187 /* Frameworks */,
@@ -111,9 +111,9 @@
 			);
 			dependencies = (
 			);
-			name = Xylophone;
+			name = BoratBox;
 			productName = Xylophone;
-			productReference = 63C019C51C58DF76001F4187 /* Xylophone.app */;
+			productReference = 63C019C51C58DF76001F4187 /* BoratBox.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -128,11 +128,12 @@
 				TargetAttributes = {
 					63C019C41C58DF76001F4187 = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 5URQZ6H6W2;
 						LastSwiftMigration = 1020;
 					};
 				};
 			};
-			buildConfigurationList = 63C019C01C58DF76001F4187 /* Build configuration list for PBXProject "Xylophone" */;
+			buildConfigurationList = 63C019C01C58DF76001F4187 /* Build configuration list for PBXProject "BoratBox" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -145,7 +146,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63C019C41C58DF76001F4187 /* Xylophone */,
+				63C019C41C58DF76001F4187 /* BoratBox */,
 			);
 		};
 /* End PBXProject section */
@@ -155,17 +156,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				63C019F41C58E4AD001F4187 /* note6.wav in Resources */,
-				63C019F31C58E4AD001F4187 /* note5.wav in Resources */,
-				63C019F11C58E4AD001F4187 /* note3.wav in Resources */,
-				63C019EF1C58E4AD001F4187 /* note1.wav in Resources */,
-				63C019F21C58E4AD001F4187 /* note4.wav in Resources */,
-				63C019F01C58E4AD001F4187 /* note2.wav in Resources */,
-				63C019F51C58E4AD001F4187 /* note7.wav in Resources */,
+				801936AE22EF4A26006E8F1F /* Bing Bong song loop.mp3 in Resources */,
+				801936B022EF4A26006E8F1F /* my name borat.mp3 in Resources */,
+				801936A122EF4A26006E8F1F /* Where woman ranks.mp3 in Resources */,
+				801936A922EF4A26006E8F1F /* My Sister is number 2 prostitute.mp3 in Resources */,
 				63C019D31C58DF76001F4187 /* LaunchScreen.storyboard in Resources */,
 				63C019D01C58DF76001F4187 /* Assets.xcassets in Resources */,
+				801936A722EF4A26006E8F1F /* Jagshemash.mp3 in Resources */,
 				AD6F1CCA20EBCF7200198C34 /* README.md in Resources */,
+				801936A822EF4A26006E8F1F /* Wow wow wee waa.mp3 in Resources */,
 				63C019CE1C58DF76001F4187 /* Main.storyboard in Resources */,
+				801936AF22EF4A26006E8F1F /* Scared of chocolate face man.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,11 +311,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Xylophone/Info.plist;
+				DEVELOPMENT_TEAM = 5URQZ6H6W2;
+				INFOPLIST_FILE = BoratBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LewisMcGrath.Xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -322,19 +324,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Xylophone/Info.plist;
+				DEVELOPMENT_TEAM = 5URQZ6H6W2;
+				INFOPLIST_FILE = BoratBox/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YourName.Xylophone;
+				PRODUCT_BUNDLE_IDENTIFIER = com.LewisMcGrath.Xylophone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		63C019C01C58DF76001F4187 /* Build configuration list for PBXProject "Xylophone" */ = {
+		63C019C01C58DF76001F4187 /* Build configuration list for PBXProject "BoratBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63C019D51C58DF76001F4187 /* Debug */,
@@ -343,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63C019D71C58DF76001F4187 /* Build configuration list for PBXNativeTarget "Xylophone" */ = {
+		63C019D71C58DF76001F4187 /* Build configuration list for PBXNativeTarget "BoratBox" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63C019D81C58DF76001F4187 /* Debug */,
